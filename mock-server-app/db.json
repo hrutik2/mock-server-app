@@ -1,0 +1,316 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wooden Coffee Table",
+        "category": "Living Room Furniture",
+        "brand": "ABC Furniture",
+        "price": 199.99,
+        "images": [
+          "image_url_1.jpg",
+          "image_url_2.jpg",
+          "image_url_3.jpg",
+          "image_url_4.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": [
+          {
+            "id": 1,
+            "username": "User123",
+            "rating": 5,
+            "comment": "Beautiful table, fits perfectly in my living room!"
+          },
+          {
+            "id": 2,
+            "username": "User456",
+            "rating": 4,
+            "comment": "Sturdy construction, great value for the price."
+          }
+        ],
+        "description": "A stylish wooden coffee table for your living room. Made from high-quality oak wood.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 2,
+        "name": "Wooden TV Stand",
+        "category": "Living Room Furniture",
+        "brand": "XYZ Furnishings",
+        "price": 299.99,
+        "images": [
+          "image_url_5.jpg",
+          "image_url_6.jpg",
+          "image_url_7.jpg",
+          "image_url_8.jpg"
+        ],
+        "rating": 4.8,
+        "reviews": [
+          {
+            "id": 3,
+            "username": "User789",
+            "rating": 4,
+            "comment": "Great design, fits my TV perfectly!"
+          },
+          {
+            "id": 4,
+            "username": "User101",
+            "rating": 5,
+            "comment": "Easy to assemble, looks amazing."
+          }
+        ],
+        "description": "A functional wooden TV stand with ample storage space for your living room.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 3,
+        "name": "Wooden Bookshelf",
+        "category": "Living Room Furniture",
+        "brand": "Furniture Mart",
+        "price": 249.99,
+        "images": [
+          "image_url_9.jpg",
+          "image_url_10.jpg",
+          "image_url_11.jpg",
+          "image_url_12.jpg"
+        ],
+        "rating": 4.3,
+        "reviews": [
+          {
+            "id": 5,
+            "username": "User202",
+            "rating": 4,
+            "comment": "Great addition to my living room, good quality."
+          },
+          {
+            "id": 6,
+            "username": "User303",
+            "rating": 4,
+            "comment": "Looks even better in person, very satisfied."
+          }
+        ],
+        "description": "A wooden bookshelf with multiple shelves for organizing your books and decor.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 4,
+        "name": "Wooden Sofa",
+        "category": "Living Room Furniture",
+        "brand": "Cozy Living",
+        "price": 499.99,
+        "images": [
+          "image_url_13.jpg",
+          "image_url_14.jpg",
+          "image_url_15.jpg",
+          "image_url_16.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [
+          {
+            "id": 7,
+            "username": "User404",
+            "rating": 5,
+            "comment": "Comfortable and looks great in my living room!"
+          },
+          {
+            "id": 8,
+            "username": "User505",
+            "rating": 4,
+            "comment": "Good value for the price, high-quality materials."
+          }
+        ],
+        "description": "A wooden sofa with plush cushions for ultimate comfort in your living room.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 5,
+        "name": "Wooden Sideboard",
+        "category": "Living Room Furniture",
+        "brand": "Elegant Designs",
+        "price": 349.99,
+        "images": [
+          "image_url_17.jpg",
+          "image_url_18.jpg",
+          "image_url_19.jpg",
+          "image_url_20.jpg"
+        ],
+        "rating": 4.4,
+        "reviews": [
+          {
+            "id": 9,
+            "username": "User606",
+            "rating": 4,
+            "comment": "Perfect for storing dinnerware and looks stunning!"
+          },
+          {
+            "id": 10,
+            "username": "User707",
+            "rating": 5,
+            "comment": "Highly recommend, great craftsmanship."
+          }
+        ],
+        "description": "A wooden sideboard with ample storage space and a sleek design for your living room.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 6,
+        "name": "Wooden End Table",
+        "category": "Living Room Furniture",
+        "brand": "ABC Furniture",
+        "price": 149.99,
+        "images": [
+          "image_url_21.jpg",
+          "image_url_22.jpg",
+          "image_url_23.jpg",
+          "image_url_24.jpg"
+        ],
+        "rating": 4.2,
+        "reviews": [
+          {
+            "id": 11,
+            "username": "User808",
+            "rating": 4,
+            "comment": "Fits perfectly next to my sofa, excellent quality."
+          },
+          {
+            "id": 12,
+            "username": "User909",
+            "rating": 3,
+            "comment": "Decent table for the price, some minor imperfections."
+          }
+        ],
+        "description": "A wooden end table that complements your living room decor. Made from durable hardwood.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 7,
+        "name": "Wooden Entertainment Center",
+        "category": "Living Room Furniture",
+        "brand": "XYZ Furnishings",
+        "price": 599.99,
+        "images": [
+          "image_url_25.jpg",
+          "image_url_26.jpg",
+          "image_url_27.jpg",
+          "image_url_28.jpg"
+        ],
+        "rating": 4.7,
+        "reviews": [
+          {
+            "id": 13,
+            "username": "User101",
+            "rating": 5,
+            "comment": "Sturdy construction and plenty of storage space!"
+          },
+          {
+            "id": 14,
+            "username": "User202",
+            "rating": 4,
+            "comment": "Great addition to my living room setup."
+          }
+        ],
+        "description": "A wooden entertainment center with shelves and cabinets for your TV and media devices.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 8,
+        "name": "Wooden Lounge Chair",
+        "category": "Living Room Furniture",
+        "brand": "Cozy Living",
+        "price": 249.99,
+        "images": [
+          "image_url_29.jpg",
+          "image_url_30.jpg",
+          "image_url_31.jpg",
+          "image_url_32.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [
+          {
+            "id": 15,
+            "username": "User303",
+            "rating": 5,
+            "comment": "Extremely comfortable, perfect for lounging!"
+          },
+          {
+            "id": 16,
+            "username": "User404",
+            "rating": 4,
+            "comment": "High-quality chair, looks great in my living room."
+          }
+        ],
+        "description": "A wooden lounge chair with plush cushions for ultimate relaxation in your living room.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 9,
+        "name": "Wooden Wall Shelf",
+        "category": "Living Room Furniture",
+        "brand": "Furniture Mart",
+        "price": 99.99,
+        "images": [
+          "image_url_33.jpg",
+          "image_url_34.jpg",
+          "image_url_35.jpg",
+          "image_url_36.jpg"
+        ],
+        "rating": 4.0,
+        "reviews": [
+          {
+            "id": 17,
+            "username": "User505",
+            "rating": 3,
+            "comment": "Does the job, but could be sturdier."
+          },
+          {
+            "id": 18,
+            "username": "User606",
+            "rating": 4,
+            "comment": "Looks nice on my wall, easy to install."
+          }
+        ],
+        "description": "A wooden wall shelf for displaying decorative items in your living room.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 10,
+        "name": "Wooden Ottoman",
+        "category": "Living Room Furniture",
+        "brand": "Elegant Designs",
+        "price": 179.99,
+        "images": [
+          "image_url_37.jpg",
+          "image_url_38.jpg",
+          "image_url_39.jpg",
+          "image_url_40.jpg"
+        ],
+        "rating": 4.3,
+        "reviews": [
+          {
+            "id": 19,
+            "username": "User707",
+            "rating": 4,
+            "comment": "Great addition to my living room setup."
+          },
+          {
+            "id": 20,
+            "username": "User808",
+            "rating": 4,
+            "comment": "Comfortable and looks stylish."
+          }
+        ],
+        "description": "A wooden ottoman that provides additional seating and complements your living room decor.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      }
+    ]
+  }
+  
+  
