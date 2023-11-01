@@ -7,10 +7,10 @@
         "brand": "ABC Furniture",
         "price": 199.99,
         "images": [
-          "image_url_1.jpg",
-          "image_url_2.jpg",
-          "image_url_3.jpg",
-          "image_url_4.jpg"
+          "https://i.pinimg.com/564x/39/5f/70/395f706dd6357e03b8f0e475a484ef18.jpg",
+          "https://i.pinimg.com/originals/8f/e8/5c/8fe85cf0ab4f02b87dd5ac5bb5d0126f.jpg",
+          "https://i.pinimg.com/564x/18/c5/b5/18c5b5306e4686c26995d74f0f4c9643.jpg",
+          "https://i.pinimg.com/564x/12/5c/fb/125cfbe26a44fe60db6202383d7b8bd1.jpg"
         ],
         "rating": 4.5,
         "reviews": [
@@ -38,10 +38,10 @@
         "brand": "XYZ Furnishings",
         "price": 299.99,
         "images": [
-          "image_url_5.jpg",
-          "image_url_6.jpg",
-          "image_url_7.jpg",
-          "image_url_8.jpg"
+          "https://i.pinimg.com/564x/8f/bf/74/8fbf74d44cf8c8e804b82497fdf34be5.jpg",
+          "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/540741/2.jpg?0053",
+          "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/540741/3.jpg?0053",
+          "https://eg.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/17/540741/6.jpg?0053"
         ],
         "rating": 4.8,
         "reviews": [
@@ -69,10 +69,10 @@
         "brand": "Furniture Mart",
         "price": 249.99,
         "images": [
-          "image_url_9.jpg",
-          "image_url_10.jpg",
-          "image_url_11.jpg",
-          "image_url_12.jpg"
+          "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/71/736774/1.jpg?7505",
+          "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/71/736774/2.jpg?7505",
+          "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/71/736774/6.jpg?7505",
+          "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/71/736774/4.jpg?7505"
         ],
         "rating": 4.3,
         "reviews": [
@@ -100,10 +100,10 @@
         "brand": "Cozy Living",
         "price": 499.99,
         "images": [
-          "image_url_13.jpg",
-          "image_url_14.jpg",
-          "image_url_15.jpg",
-          "image_url_16.jpg"
+          "https://i.pinimg.com/236x/90/eb/b0/90ebb07599b268fa4856aff0aa8777a6.jpg",
+          "https://i.pinimg.com/236x/cc/13/bc/cc13bc8de2bcf95ac0892c1b546b168f.jpg",
+          "https://i.pinimg.com/236x/8b/32/01/8b320178e6d1e35c9138ff3d926d186d.jpg",
+          "https://i.pinimg.com/236x/8b/32/01/8b320178e6d1e35c9138ff3d926d186d.jpg"
         ],
         "rating": 4.6,
         "reviews": [
@@ -131,10 +131,10 @@
         "brand": "Elegant Designs",
         "price": 349.99,
         "images": [
-          "image_url_17.jpg",
-          "image_url_18.jpg",
-          "image_url_19.jpg",
-          "image_url_20.jpg"
+          "https://i.pinimg.com/736x/6e/58/ad/6e58ad2574cb5842363213268b83f235.jpg",
+          "https://i.pinimg.com/236x/bb/7b/8f/bb7b8f9ba43848fe3c041c14661c12fc.jpg",
+          "https://i.pinimg.com/236x/e9/ba/0a/e9ba0af061ef7f80c6903e451f038873.jpg",
+          "https://outdoor_bar_1.jpg"
         ],
         "rating": 4.4,
         "reviews": [
@@ -162,10 +162,10 @@
         "brand": "ABC Furniture",
         "price": 149.99,
         "images": [
-          "image_url_21.jpg",
-          "image_url_22.jpg",
-          "image_url_23.jpg",
-          "image_url_24.jpg"
+          "https://i.pinimg.com/236x/d3/0f/3e/d30f3e68e2d2f69921d5c4f4f335631e.jpg",
+          "https://i.pinimg.com/236x/55/3e/36/553e369e9c3458fa778ad28a1b0eab76.jpg",
+          "https://i.pinimg.com/236x/16/a1/07/16a107c57ec1b794c1697920926f6f13.jpg",
+          "https://i.pinimg.com/236x/52/33/13/52331306e936e96f96691cdf39ef6ac9.jpg"
         ],
         "rating": 4.2,
         "reviews": [
@@ -193,10 +193,10 @@
         "brand": "XYZ Furnishings",
         "price": 599.99,
         "images": [
-          "image_url_25.jpg",
-          "image_url_26.jpg",
-          "image_url_27.jpg",
-          "image_url_28.jpg"
+          "https://i.pinimg.com/236x/3e/5e/1a/3e5e1a6b7165c6ad0ea3ebce1eb758f3.jpg",
+          "https://i.pinimg.com/736x/ef/08/6c/ef086ca12b33dd9016a8d3555414b673.jpg",
+          "https://i.pinimg.com/236x/6b/57/15/6b5715b80fda8595cd86a9f39d16b103.jpg",
+          "https://i.pinimg.com/564x/61/b1/eb/61b1eb007488dd79f06c39ce13902cc9.jpg"
         ],
         "rating": 4.7,
         "reviews": [
@@ -224,10 +224,10 @@
         "brand": "Cozy Living",
         "price": 249.99,
         "images": [
-          "image_url_29.jpg",
-          "image_url_30.jpg",
-          "image_url_31.jpg",
-          "image_url_32.jpg"
+          "https://i.pinimg.com/236x/e5/a8/31/e5a831ac2c10ab93dabeedfb47a732bc.jpg",
+          "https://i.pinimg.com/236x/5a/37/c8/5a37c84f7b7bdf746021b6438ed8f43c.jpg",
+          "https://i.pinimg.com/236x/94/a6/33/94a633e6a939c5bf66b276ea64b1884f.jpg",
+          "https://i.pinimg.com/236x/d7/2e/42/d72e42974b13360de34bc116b86219c9.jpg"
         ],
         "rating": 4.6,
         "reviews": [
@@ -255,10 +255,10 @@
         "brand": "Furniture Mart",
         "price": 99.99,
         "images": [
-          "image_url_33.jpg",
-          "image_url_34.jpg",
-          "image_url_35.jpg",
-          "image_url_36.jpg"
+          "https://i.pinimg.com/236x/c9/13/4b/c9134b87a3afa8adfe6677e49ee11feb.jpg",
+          "https://i.pinimg.com/236x/00/38/2a/00382aca904795d670729b6d8c89df66.jpg",
+          "https://i.pinimg.com/236x/99/63/36/996336da3623fd111f2e04d703a885d1.jpg",
+          "https://i.pinimg.com/236x/c9/13/4b/c9134b87a3afa8adfe6677e49ee11feb.jpg"
         ],
         "rating": 4.0,
         "reviews": [
@@ -286,10 +286,10 @@
         "brand": "Elegant Designs",
         "price": 179.99,
         "images": [
-          "image_url_37.jpg",
-          "image_url_38.jpg",
-          "image_url_39.jpg",
-          "image_url_40.jpg"
+          "https://i.pinimg.com/564x/f4/a3/7f/f4a37f14acbc66f3c81f494b49dbea8c.jpg",
+          "https://i.pinimg.com/236x/f8/c1/fa/f8c1faabec3dd9ba7f5b2710747a376a.jpg",
+          "https://i.pinimg.com/236x/38/5a/b6/385ab6ea5a5f4e81171649590c166678.jpg",
+          "https://i.pinimg.com/236x/66/77/44/667744839c053ebdd75333e499b8ccba.jpg"
         ],
         "rating": 4.3,
         "reviews": [
@@ -309,8 +309,974 @@
         "description": "A wooden ottoman that provides additional seating and complements your living room decor.",
         "created_at": "2023-10-30T12:00:00Z",
         "updated_at": "2023-10-30T12:00:00Z"
-      }
-    ]
-  }
+      },
+      {
+        "id": 11,
+        "name": "Wooden Bed Frame",
+        "category": "Bedroom Furniture",
+        "brand": "DreamCraft",
+        "price": 499.99,
+        "images": [
+          "https://i.pinimg.com/originals/e6/db/79/e6db7916b6ffd79fd34afa3fb14d2eb1.jpg",
+          "https://i.pinimg.com/236x/06/5e/ba/065eba0f26fa09af02dc895c1ff06208.jpg",
+          "https://i.pinimg.com/236x/39/c2/b1/39c2b1302b6e36f11b66b8fe60520b06.jpg",
+          "https://i.pinimg.com/236x/5e/bf/62/5ebf62fc780aaa5624608dc9e9080173.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [
+          {
+            "id": 21,
+            "username": "User111",
+            "rating": 5,
+            "comment": "Sturdy and elegant, love the design!"
+          },
+          {
+            "id": 22,
+            "username": "User222",
+            "rating": 4,
+            "comment": "Easy to assemble, looks great in my bedroom."
+          }
+        ],
+        "description": "A wooden bed frame with a modern design for your bedroom. Made from high-quality walnut wood.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
   
+      {
+        "id": 12,
+        "name": "Wooden Dresser",
+        "category": "Bedroom Furniture",
+        "brand": "Elegant Designs",
+        "price": 349.99,
+        "images": [
+          "https://i.pinimg.com/564x/79/4c/1e/794c1ef41111a0332f990e3946f65247.jpg",
+          "https://i.pinimg.com/736x/4e/34/03/4e3403126420556ee1e9e8c28ee558e5.jpg",
+          "https://i.pinimg.com/736x/4e/34/03/4e3403126420556ee1e9e8c28ee558e5.jpg",
+          "https://i.pinimg.com/736x/4e/34/03/4e3403126420556ee1e9e8c28ee558e5.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": [
+          {
+            "id": 23,
+            "username": "User333",
+            "rating": 4,
+            "comment": "Beautiful piece, drawers slide smoothly."
+          },
+          {
+            "id": 24,
+            "username": "User444",
+            "rating": 5,
+            "comment": "Excellent craftsmanship, adds charm to my bedroom."
+          }
+        ],
+        "description": "A wooden dresser with ample storage space and a timeless design for your bedroom.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 13,
+        "name": "Wooden Wardrobe",
+        "category": "Bedroom Furniture",
+        "brand": "ABC Furniture",
+        "price": 599.99,
+        "images": [
+          "https://i.pinimg.com/564x/22/a4/12/22a41238040e429f7d4b172219b462d0.jpg",
+          "https://www.litfad.com/contemporary-oak-solid-wood-wardrobe-freestanding-multifunctional-wardrobe-s-3683421.html",
+          "https://res.litfad.com/site/img/item/2023/01/08/7276795/1200x1200.jpg",
+          "https://outdoor_bar_1.jpg"
+          
+        ],
+        "rating": 4.7,
+        "reviews": [
+          {
+            "id": 25,
+            "username": "User555",
+            "rating": 5,
+            "comment": "Spacious and well-built, exactly what I needed."
+          },
+          {
+            "id": 26,
+            "username": "User666",
+            "rating": 4,
+            "comment": "Impressive quality, fits all my clothes."
+          }
+        ],
+        "description": "A wooden wardrobe with multiple compartments for organized storage in your bedroom.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 14,
+        "name": "Wooden Nightstand",
+        "category": "Bedroom Furniture",
+        "brand": "XYZ Furnishings",
+        "price": 149.99,
+        "images": [
+          "https://i.pinimg.com/564x/22/fd/e8/22fde8ff1b56722390f9b4175f035b89.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.3,
+        "reviews": [
+          {
+            "id": 27,
+            "username": "User777",
+            "rating": 4,
+            "comment": "Compact and functional, looks great next to my bed."
+          },
+          {
+            "id": 28,
+            "username": "User888",
+            "rating": 3,
+            "comment": "Decent quality for the price, happy with my purchase."
+          }
+        ],
+        "description": "A wooden nightstand that complements your bedroom decor. Features a drawer and a shelf for storage.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 15,
+        "name": "Wooden Vanity Table",
+        "category": "Bedroom Furniture",
+        "brand": "Furniture Mart",
+        "price": 399.99,
+        "images": [
+          "https://i.pinimg.com/236x/f7/c4/82/f7c482bed6f11bddf4668fb88bbbb00c.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.4,
+        "reviews": [
+          {
+            "id": 29,
+            "username": "User999",
+            "rating": 5,
+            "comment": "Absolutely love it, feels like a movie star!"
+          },
+          {
+            "id": 30,
+            "username": "User1010",
+            "rating": 4,
+            "comment": "Sturdy and elegant, fits perfectly in my bedroom."
+          }
+        ],
+        "description": "A wooden vanity table with a mirror and ample storage for your bedroom.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 16,
+        "name": "Wooden Chest of Drawers",
+        "category": "Bedroom Furniture",
+        "brand": "DreamCraft",
+        "price": 299.99,
+        "images": [
+          "https://i.pinimg.com/564x/76/b0/fb/76b0fbcb5eb6b6fb7e1115255f7307ca.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": [
+          {
+            "id": 31,
+            "username": "User1111",
+            "rating": 4,
+            "comment": "Spacious and well-crafted, exactly what I needed."
+          },
+          {
+            "id": 32,
+            "username": "User1212",
+            "rating": 5,
+            "comment": "Impressive quality, fits all my clothes."
+          }
+        ],
+        "description": "A wooden chest of drawers for organized storage in your bedroom. Features multiple drawers with metal handles.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 17,
+        "name": "Wooden King-size Bed",
+        "category": "Bedroom Furniture",
+        "brand": "Elegant Designs",
+        "price": 699.99,
+        "images": [
+          "https://i.pinimg.com/236x/13/82/2e/13822e0a38a25e351f6d8d151d937f86.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.7,
+        "reviews": [
+          {
+            "id": 33,
+            "username": "User1313",
+            "rating": 5,
+            "comment": "Absolutely luxurious, very comfortable!"
+          },
+          {
+            "id": 34,
+            "username": "User1414",
+            "rating": 4,
+            "comment": "Excellent craftsmanship, a centerpiece in my bedroom."
+          }
+        ],
+        "description": "A wooden king-size bed with an elegant design for your bedroom. Provides a comfortable and stylish sleeping experience.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 18,
+        "name": "Wooden Armoire",
+        "category": "Bedroom Furniture",
+        "brand": "ABC Furniture",
+        "price": 549.99,
+        "images": [
+          "https://i.pinimg.com/564x/63/3d/f1/633df1e346843e5cb811929100974c6b.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [
+          {
+            "id": 35,
+            "username": "User1515",
+            "rating": 4,
+            "comment": "Beautiful piece, fits my bedroom decor perfectly."
+          },
+          {
+            "id": 36,
+            "username": "User1616",
+            "rating": 5,
+            "comment": "Impressive quality, plenty of storage space."
+          }
+        ],
+        "description": "A wooden armoire with shelves and hanging space for organized storage in your bedroom.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 19,
+        "name": "Wooden Bedroom Bench",
+        "category": "Bedroom Furniture",
+        "brand": "XYZ Furnishings",
+        "price": 199.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.4,
+        "reviews": [
+          {
+            "id": 37,
+            "username": "User1717",
+            "rating": 4,
+            "comment": "Looks great at the foot of my bed, comfortable too!"
+          },
+          {
+            "id": 38,
+            "username": "User1818",
+            "rating": 4,
+            "comment": "Good value for the price, adds character to my bedroom."
+          }
+        ],
+        "description": "A wooden bedroom bench that adds style and extra seating to your bedroom. Features a cushioned seat for comfort.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 20,
+        "name": "Wooden Bedside Table",
+        "category": "Bedroom Furniture",
+        "brand": "Furniture Mart",
+        "price": 99.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.2,
+        "reviews": [
+          {
+            "id": 39,
+            "username": "User1919",
+            "rating": 4,
+            "comment": "Compact and functional, fits perfectly next to my bed."
+          },
+          {
+            "id": 40,
+            "username": "User2020",
+            "rating": 3,
+            "comment": "Decent quality for the price, happy with my purchase."
+          }
+        ],
+        "description": "A wooden bedside table that complements your bedroom decor. Features a drawer and a shelf for storage.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 21,
+        "name": "Wooden Dining Table",
+        "category": "Dining Room Furniture",
+        "brand": "ABC Furniture",
+        "price": 599.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.7,
+        "reviews": [
+          {
+            "id": 41,
+            "username": "User2121",
+            "rating": 5,
+            "comment": "Beautiful table, perfect for family gatherings!"
+          },
+          {
+            "id": 42,
+            "username": "User2222",
+            "rating": 4,
+            "comment": "Sturdy construction, love the design."
+          }
+        ],
+        "description": "A wooden dining table with a classic design for your dining room. Made from high-quality oak wood.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 22,
+        "name": "Wooden Dining Chairs (Set of 4)",
+        "category": "Dining Room Furniture",
+        "brand": "Elegant Designs",
+        "price": 299.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [
+          {
+            "id": 43,
+            "username": "User2323",
+            "rating": 5,
+            "comment": "Comfortable and stylish, exceeded my expectations!"
+          },
+          {
+            "id": 44,
+            "username": "User2424",
+            "rating": 4,
+            "comment": "High-quality chairs, looks great around the dining table."
+          }
+        ],
+        "description": "A set of four wooden dining chairs that complement your dining room decor. Features cushioned seats for comfort.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 23,
+        "name": "Wooden Buffet Table",
+        "category": "Dining Room Furniture",
+        "brand": "DreamCraft",
+        "price": 399.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": [
+          {
+            "id": 45,
+            "username": "User2525",
+            "rating": 4,
+            "comment": "Beautiful piece, adds elegance to my dining room."
+          },
+          {
+            "id": 46,
+            "username": "User2626",
+            "rating": 5,
+            "comment": "Plenty of storage space, well-crafted."
+          }
+        ],
+        "description": "A wooden buffet table with storage for your dining room. Features drawers and cabinets for organized storage.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 24,
+        "name": "Wooden Dining Bench",
+        "category": "Dining Room Furniture",
+        "brand": "XYZ Furnishings",
+        "price": 149.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.3,
+        "reviews": [
+          {
+            "id": 47,
+            "username": "User2727",
+            "rating": 4,
+            "comment": "Sturdy and comfortable, fits perfectly in my dining room."
+          },
+          {
+            "id": 48,
+            "username": "User2828",
+            "rating": 3,
+            "comment": "Decent bench for the price, some minor imperfections."
+          }
+        ],
+        "description": "A wooden dining bench that complements your dining room decor. Provides additional seating for gatherings and meals.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 25,
+        "name": "Wooden China Cabinet",
+        "category": "Dining Room Furniture",
+        "brand": "Furniture Mart",
+        "price": 599.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.7,
+        "reviews": [
+          {
+            "id": 49,
+            "username": "User2929",
+            "rating": 5,
+            "comment": "Beautiful piece, showcases my fine china perfectly!"
+          },
+          {
+            "id": 50,
+            "username": "User3030",
+            "rating": 4,
+            "comment": "High-quality cabinet, adds charm to my dining room."
+          }
+        ],
+        "description": "A wooden china cabinet with glass doors for displaying fine china and glassware in your dining room.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 26,
+        "name": "Wooden Bar Stools (Set of 2)",
+        "category": "Dining Room Furniture",
+        "brand": "ABC Furniture",
+        "price": 249.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [
+          {
+            "id": 51,
+            "username": "User3131",
+            "rating": 4,
+            "comment": "Comfortable and stylish, great addition to my dining area!"
+          },
+          {
+            "id": 52,
+            "username": "User3232",
+            "rating": 5,
+            "comment": "Excellent quality, complements my bar counter perfectly."
+          }
+        ],
+        "description": "A set of two wooden bar stools with cushioned seats for your dining or bar area. Adds style and seating to your space.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+      {
+        "id": 27,
+        "name": "Wooden Dining Hutch",
+        "category": "Dining Room Furniture",
+        "brand": "Elegant Designs",
+        "price": 449.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": [
+          {
+            "id": 53,
+            "username": "User3333",
+            "rating": 4,
+            "comment": "Beautiful piece, provides ample storage space for my dining room."
+          },
+          {
+            "id": 54,
+            "username": "User3434",
+            "rating": 5,
+            "comment": "High-quality hutch, enhances the look of my dining area."
+          }
+        ],
+        "description": "A wooden dining hutch with shelves and cabinets for organized storage in your dining room. Showcases your finest dinnerware.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+  
+      {
+        "id": 28,
+        "name": "Wooden Dining Server",
+        "category": "Dining Room Furniture",
+        "brand": "DreamCraft",
+        "price": 299.99,
+        "images": [
+          "https://i.pinimg.com/564x/58/cd/74/58cd744dccd77f9d42e31f487e74ee98.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.4,
+        "reviews": [
+          {
+            "id": 55,
+            "username": "User3535",
+            "rating": 4,
+            "comment": "Functional and elegant, adds character to my dining room."
+          },
+          {
+            "id": 56,
+            "username": "User3636",
+            "rating": 4,
+            "comment": "Good value for the price, love the design."
+          }
+        ],
+        "description": "A wooden dining server with drawers and shelves for organized storage in your dining room. Adds style and functionality to your space.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+  
+  
+      {
+        "id": 29,
+        "name": "Wooden Dining Set (Table + 6 Chairs)",
+        "category": "Dining Room Furniture",
+        "brand": "XYZ Furnishings",
+        "price": 899.99,
+        "images": [
+          "https://i.pinimg.com/236x/17/5f/5c/175f5c04c552c2b8801772944089d9eb.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.7,
+        "reviews": [
+          {
+            "id": 57,
+            "username": "User3737",
+            "rating": 5,
+            "comment": "Absolutely love it, perfect for family gatherings!"
+          },
+          {
+            "id": 58,
+            "username": "User3838",
+            "rating": 4,
+            "comment": "High-quality set, exceeded my expectations."
+          }
+        ],
+        "description": "A complete wooden dining set with a table and six chairs. Enhances the dining experience in your home with style and comfort.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+        "id": 30,
+        "name": "Wooden Wine Rack",
+        "category": "Dining Room Furniture",
+        "brand": "Furniture Mart",
+        "price": 149.99,
+        "images": [
+          "https://i.pinimg.com/564x/6f/9e/b3/6f9eb3375a0a1f6994d1f4c57126d97d.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg",
+          "https://outdoor_bar_1.jpg"
+        ],
+        "rating": 4.3,
+        "reviews": [
+          {
+            "id": 59,
+            "username": "User3939",
+            "rating": 4,
+            "comment": "Stylish and functional, adds a touch of sophistication to my dining area."
+          },
+          {
+            "id": 60,
+            "username": "User4040",
+            "rating": 3,
+            "comment": "Decent quality for the price, fits my wine collection perfectly."
+          }
+        ],
+        "description": "A wooden wine rack with storage for your wine bottles and glasses. Adds elegance to your dining area and showcases your wine collection.",
+        "created_at": "2023-10-30T12:00:00Z",
+        "updated_at": "2023-10-30T12:00:00Z"
+      },
+      {
+            "id": 31,
+            "name": "Wooden Patio Set (Table + 4 Chairs)",
+            "category": "Outdoor Furniture",
+            "brand": "ABC Outdoor",
+            "price": 799.99,
+            "images": [
+              "https://i.pinimg.com/564x/1a/f9/a7/1af9a765cdde0e3e68e36885de234692.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.7,
+            "reviews": [
+              {
+                "id": 61,
+                "username": "User4141",
+                "rating": 5,
+                "comment": "Beautiful set, perfect for outdoor gatherings!"
+              },
+              {
+                "id": 62,
+                "username": "User4242",
+                "rating": 4,
+                "comment": "Sturdy construction, looks great on my patio."
+              }
+            ],
+            "description": "A complete wooden patio set with a table and four chairs. Provides a comfortable and stylish outdoor seating area for relaxation and entertainment.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+          {
+            "id": 32,
+            "name": "Wooden Adirondack Chair",
+            "category": "Outdoor Furniture",
+            "brand": "Elegant Outdoors",
+            "price": 149.99,
+            "images": [
+              "https://i.pinimg.com/564x/a6/31/6e/a6316e50818ae6fdc36c70522a5f8b21.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.6,
+            "reviews": [
+              {
+                "id": 63,
+                "username": "User4343",
+                "rating": 5,
+                "comment": "Extremely comfortable, my favorite spot in the backyard!"
+              },
+              {
+                "id": 64,
+                "username": "User4444",
+                "rating": 4,
+                "comment": "High-quality chair, love the classic design."
+              }
+            ],
+            "description": "A wooden Adirondack chair for ultimate relaxation in your outdoor space. Features a contoured seat and back for optimal comfort.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+          {
+            "id": 33,
+            "name": "Wooden Garden Bench",
+            "category": "Outdoor Furniture",
+            "brand": "Dream Gardens",
+            "price": 199.99,
+            "images": [
+              "https://i.pinimg.com/736x/ba/bd/93/babd93e8e993c2e877bc80dfb7d46664.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.5,
+            "reviews": [
+              {
+                "id": 65,
+                "username": "User4545",
+                "rating": 4,
+                "comment": "Sturdy and elegant, enhances my garden space."
+              },
+              {
+                "id": 66,
+                "username": "User4646",
+                "rating": 5,
+                "comment": "Excellent craftsmanship, a lovely addition to my outdoor area."
+              }
+            ],
+            "description": "A wooden garden bench that adds charm to your outdoor space. Provides a comfortable spot to enjoy your garden or backyard scenery.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 34,
+            "name": "Wooden Picnic Table",
+            "category": "Outdoor Furniture",
+            "brand": "ABC Outdoor",
+            "price": 299.99,
+            "images": [
+              "https://i.pinimg.com/564x/23/6a/04/236a047b8fcf10fc35215fc13d80b992.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.4,
+            "reviews": [
+              {
+                "id": 67,
+                "username": "User4747",
+                "rating": 4,
+                "comment": "Perfect for outdoor meals, sturdy and spacious."
+              },
+              {
+                "id": 68,
+                "username": "User4848",
+                "rating": 3,
+                "comment": "Decent quality for the price, happy with my purchase."
+              }
+            ],
+            "description": "A wooden picnic table for outdoor dining and gatherings. Provides ample seating space for family and friends to enjoy meals together in the great outdoors.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 35,
+            "name": "Wooden Swing Set",
+            "category": "Outdoor Furniture",
+            "brand": "Elegant Outdoors",
+            "price": 499.99,
+            "images": [
+              "https://i.pinimg.com/564x/40/81/fd/4081fd866ecb3c4d612536bfb4d9901d.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.7,
+            "reviews": [
+              {
+                "id": 69,
+                "username": "User4949",
+                "rating": 5,
+                "comment": "Kids love it, great addition to the backyard!"
+              },
+              {
+                "id": 70,
+                "username": "User5050",
+                "rating": 4,
+                "comment": "Sturdy and safe, provides hours of outdoor fun."
+              }
+            ],
+            "description": "A wooden swing set for children's outdoor play. Provides hours of fun and entertainment in your backyard or garden space.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 36,
+            "name": "Wooden Lounge Chair",
+            "category": "Outdoor Furniture",
+            "brand": "ABC Outdoor",
+            "price": 249.99,
+            "images": [
+              "https://i.pinimg.com/564x/b3/32/c0/b332c020c83150a37645d9d2660f14be.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.6,
+            "reviews": [
+              {
+                "id": 71,
+                "username": "User5151",
+                "rating": 5,
+                "comment": "Extremely comfortable, perfect for relaxing by the pool!"
+              },
+              {
+                "id": 72,
+                "username": "User5252",
+                "rating": 4,
+                "comment": "High-quality chair, love the adjustable backrest."
+              }
+            ],
+            "description": "A wooden lounge chair for ultimate relaxation in your outdoor space. Features an adjustable backrest for personalized comfort while you soak up the sun.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 37,
+            "name": "Wooden Fire Pit",
+            "category": "Outdoor Furniture",
+            "brand": "Dream Gardens",
+            "price": 349.99,
+            "images": [
+              "https://i.pinimg.com/564x/bb/6d/78/bb6d783472106faa83f38e1a8f5cc4fa.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.5,
+            "reviews": [
+              {
+                "id": 73,
+                "username": "User5353",
+                "rating": 4,
+                "comment": "Great addition to our backyard, perfect for evening gatherings."
+              },
+              {
+                "id": 74,
+                "username": "User5454",
+                "rating": 5,
+                "comment": "Well-crafted fire pit, provides warmth and ambiance."
+              }
+            ],
+            "description": "A wooden fire pit for cozy outdoor gatherings. Provides warmth and ambiance while you enjoy the company of friends and family in your backyard or garden.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 38,
+            "name": "Wooden Planter Boxes (Set of 3)",
+            "category": "Outdoor Furniture",
+            "brand": "Elegant Outdoors",
+            "price": 129.99,
+            "images": [
+              "https://i.pinimg.com/564x/c2/dc/b9/c2dcb9d7ab01f065480d506b82037fae.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.4,
+            "reviews": [
+              {
+                "id": 75,
+                "username": "User5555",
+                "rating": 4,
+                "comment": "Adds a touch of nature to my outdoor space, love them!"
+              },
+              {
+                "id": 76,
+                "username": "User5656",
+                "rating": 3,
+                "comment": "Decent quality, could be a bit larger for the price."
+              }
+            ],
+            "description": "A set of three wooden planter boxes to showcase your favorite plants in your outdoor space. Adds a touch of nature and greenery to your garden or patio.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 39,
+            "name": "Wooden Hammock Stand",
+            "category": "Outdoor Furniture",
+            "brand": "ABC Outdoor",
+            "price": 179.99,
+            "images": [
+              "https://i.pinimg.com/236x/f6/66/b2/f666b267abca7285ed2f641198beef52.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.3,
+            "reviews": [
+              {
+                "id": 77,
+                "username": "User5757",
+                "rating": 4,
+                "comment": "Sturdy and well-made, perfect for relaxing in the backyard."
+              },
+              {
+                "id": 78,
+                "username": "User5858",
+                "rating": 3,
+                "comment": "Good value for the price, assembly was a bit tricky."
+              }
+            ],
+            "description": "A wooden hammock stand for ultimate relaxation in your outdoor space. Provides a sturdy support for your hammock, allowing you to unwind and enjoy the fresh air.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          },
+      
+      
+          {
+            "id": 40,
+            "name": "Wooden Outdoor Bar",
+            "category": "Outdoor Furniture",
+            "brand": "Dream Gardens",
+            "price": 449.99,
+            "images": [
+              "https://i.pinimg.com/564x/e9/eb/57/e9eb574bbf279e5508fa8c1413dc1314.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg",
+              "https://outdoor_bar_1.jpg"
+            ],
+            "rating": 4.2,
+            "reviews": [
+              {
+                "id": 79,
+                "username": "User5959",
+                "rating": 4,
+                "comment": "Great addition to our patio, perfect for entertaining guests."
+              },
+              {
+                "id": 80,
+                "username": "User6060",
+                "rating": 3,
+                "comment": "Decent quality, could use a bit more storage space."
+              }
+            ],
+            "description": "A wooden outdoor bar for entertaining guests in your outdoor space. Provides a stylish and functional area for serving drinks and snacks during gatherings and parties.",
+            "created_at": "2023-10-30T12:00:00Z",
+            "updated_at": "2023-10-30T12:00:00Z"
+          }
+        ]
+      }
+      
   
