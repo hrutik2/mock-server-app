@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../rutik_kisan_jadhav_fp11_100/unit-5- async/sprint-4/evaluation/masai-cp-problems-2337-1634-PEYTpO-0d7042a4281d7394c2efa8266e48b71217e0f55d"
+		},
+		{
+			"name": "mock-server-app",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mock-server-app"
+	}
+}
